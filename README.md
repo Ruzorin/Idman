@@ -182,7 +182,7 @@ Detaylı bilgi için [Katkı Kılavuzu](CONTRIBUTING.md)'na bakınız.
 
 ## 📊 İstatistikler
 
-- **Hedeflenen Kullanıcı Sayısı**: 1M+ aktif kullanıcı
+- **Hedeflenen Kullanıcı Sayısı**: 10K+ aktif kullanıcı
 - **Desteklenen Egzersiz Türü**: 500+ egzersiz
 - **Beslenme Veritabanı**: 50K+ gıda maddesi
 - **Dil Desteği**: 5 dil (TR, EN, DE, FR, ES)
@@ -209,7 +209,7 @@ Detaylı bilgi için [Katkı Kılavuzu](CONTRIBUTING.md)'na bakınız.
 
 ## 📞 İletişim
 
-- **Proje Yöneticisi**: [Adınız](mailto:your.email@company.com)
+- **Proje Yöneticisi**: [Efe](mailto:your.email@company.com)
 - **Teknik Lead**: [Teknik Lead](mailto:tech.lead@company.com)
 - **UI/UX Tasarımcısı**: [Designer](mailto:design@company.com)
 
